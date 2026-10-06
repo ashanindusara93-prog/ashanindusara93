@@ -48,14 +48,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashanindusara93-prog/ashanindusara93-prog/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashanindusara93-prog/ashanindusara93-prog/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashanindusara93-prog/ashanindusara93-prog/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 <div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/ashan-indusara-68922b329" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
